@@ -5,8 +5,8 @@
 ## Installation
 
 ### Install from GitHub
-1. Install [ComfyUi](https://github.com/comfyanonymous/ComfyUI).
-2. Clone this repo into `custom_modules`:
+1. Install [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
+2. Clone this repo into `custom_nodes`:
     ```
     cd ComfyUI/custom_nodes
     git clone https://github.com/aloababa/ComfyUI-Exporter.git
