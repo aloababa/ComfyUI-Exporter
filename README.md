@@ -7,12 +7,12 @@
 ### Install from GitHub
 1. Install [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
 2. Clone this repo into `custom_nodes`:
-    ```
-    cd ComfyUI/custom_nodes
-    git clone https://github.com/aloababa/ComfyUI-Exporter.git
-    cd ComfyUI-Exporter
-    pip install -r requirements.txt
-    ```
+```
+cd ComfyUI/custom_nodes
+git clone https://github.com/aloababa/ComfyUI-Exporter.git
+cd ComfyUI-Exporter
+pip install -r requirements.txt
+```
 3. Start up ComfyUI.
 
 ## Metrics output
